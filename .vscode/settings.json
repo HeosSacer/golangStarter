@@ -1,0 +1,106 @@
+{
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "go.toolsGopath": "C:/Users/Heos/go",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.minimap.enabled": false,
+  "javascript.format.enable": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.autofetch": true,
+  "window.zoomLevel": 0,
+  "workbench.editor.closeEmptyGroups": false,
+  "workbench.activityBar.visible": true,
+  "latex-workshop.view.pdf.viewer": "tab",
+  "editor.lineNumbers": "on",
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "go.useLanguageServer": true,
+  "go.alternateTools": {
+    "go-langserver": "gopls"
+  },
+  "go.languageServerExperimentalFeatures": {
+    "format": true,
+    "autoComplete": true,
+    "diagnostics": true,
+    "goToDefinition": true,
+    "hover": true,
+    "signatureHelp": true,
+    "goToTypeDefinition": true
+  },
+  "go.buildOnSave": "off",
+  "go.vetOnSave": "off",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": false
+    }
+  },
+  "[go]": {
+    "editor.snippetSuggestions": "bottom",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  "go.toolsEnvVars": {
+    "GO111MODULE": "on"
+  },
+  "go.gocodeAutoBuild": true,
+  "go.lintTool": "golangci-lint",
+  "go.lintFlags": ["--fast"],
+  //"gopls": {
+  //  "usePlaceholders": true // add parameter placeholders when completing a function
+  //},
+  "go.formatTool": "gofmt",
+  "go.formatFlags": ["-s"],
+  "go.vetFlags": ["-composites=false"],
+  "workbench.startupEditor": "newUntitledFile",
+  "terminal.integrated.fontFamily": "",
+  "workbench.sideBar.location": "left",
+  //"[proto3]": {
+  //  "editor.defaultFormatter": "zxh404.vscode-proto3"
+  //},
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "todo-tree.highlights.enabled": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "todo-tree.tree.showScanModeButton": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[less]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.renderControlCharacters": true,
+  "sync.autoDownload": true,
+  "sync.autoUpload": true,
+  "sync.gist": "9d4f377cb0592ed2bcdc2dea1f753956",
+  "workbench.statusBar.visible": true,
+  "search.followSymlinks": false,
+  "extensions.ignoreRecommendations": false,
+  "C_Cpp.updateChannel": "Insiders",
+  "cmake.configureArgs": ["-DCMAKE_PREFIX_PATH=~/.local"],
+  "cmake.configureOnOpen": true,
+  "rust-client.rustupPath": "~/.cargo/bin/rustup",
+  "git.suggestSmartCommit": false,
+  "python.showStartPage": false
+}
